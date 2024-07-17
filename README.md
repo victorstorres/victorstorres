@@ -1,4 +1,4 @@
-### Olá meu nome é Victor Hugo 👋
+### Olá, meu nome é Victor Hugo 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-40730b21b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhugosoria2@gmail.com)
@@ -17,7 +17,7 @@
 <div >
 
 
-###  O que eu oferço ✅ 
+###  O que eu ofereço ✅ 
 Android / Kotlin <br/>
 Ferramenta de Android Jetpack Compose<br/>
 Componentes de Android<br/>
