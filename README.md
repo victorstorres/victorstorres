@@ -1,16 +1,29 @@
-## Hi there 👋
+### Olá meu nome é Victor Hugo 👋
 
-<!--
-**victorstorres/victorstorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-40730b21b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhugosoria2@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorstorres&show_icons=true&theme=radical)
+
+### Tecnologias que eu utilizo ⛏️
+
+<div style = "display: inline_block" ><br/>
+    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" >
+    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" >
+    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" >
+    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" >
+
+<div >
+
+
+###  O que eu oferço ✅ 
+Android / Kotlin <br/>
+Ferramenta de Android Jetpack Compose<br/>
+Componentes de Android<br/>
+Experiência com Room (SQLite)<br/>
+Experiência com Git<br/>
+Injeção de dependências (Hilt)<br/>
+Estudo programação há 1 ano e meio<br/>
+Arquitetura (MVVM)  
+
