@@ -4,7 +4,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhugosoria2@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorstorres&show_icons=true&theme=radical)
 
 ### Tecnologias que eu utilizo ⛏️
 
