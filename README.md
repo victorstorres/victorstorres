@@ -23,6 +23,5 @@ Componentes de Android<br/>
 Experiência com Room (SQLite)<br/>
 Experiência com Git<br/>
 Injeção de dependências (Hilt)<br/>
-Estudo programação há 1 ano e meio<br/>
 Arquitetura (MVVM)  
 
